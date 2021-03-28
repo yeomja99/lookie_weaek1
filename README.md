@@ -8,7 +8,7 @@
 4. 작성한 자기소개 파일을 clone한 폴더로 옮기기
 5. git add .
 6. git commit -m "information_upload"
-7. git push -U origin main
+7. git push origin main
 8. GitHub로 돌아와서 "Merge" 요청
 
 
